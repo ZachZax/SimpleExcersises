@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class Learn {
+public class NVCCguestWIFI {
 	
 	//variables
 	private static boolean registered = false;   //checks if the user is registered
